@@ -2,4 +2,4 @@ A color game where you have to identify which color it is based on given values 
 
 
 
-This game is created purely using JavaScript , HTML and CSS.Jquery is also not used.
+This game is created purely using JavaScript , HTML and CSS.  Jquery is also not used.
